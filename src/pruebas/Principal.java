@@ -314,6 +314,7 @@ public class Principal {
 		Arrays.asList(decodificado).forEach(z -> {
 			System.out.print(z);
 		});
+		//algodandoles espacios
 //paila
 		//pailila2 desde ramapaililla
 	}
