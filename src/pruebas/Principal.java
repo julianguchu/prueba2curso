@@ -308,6 +308,7 @@ public class Principal {
 			posicionAnterior = A[posicionAnterior];
 
 			iteraciones++;
+			//modificacion desde remoto
 //comentario para ramilla desde remoto
 		}
 
