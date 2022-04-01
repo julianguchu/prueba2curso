@@ -18,7 +18,7 @@ import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
 public class Principal {
-
+	//comentario desde ramaprueba2curso
 	static String[] myArray = { "a", "b", "c", "d", "d", "c", "b", "b" };
 	static int n = 8;
 	static int A[] = { 5, 2, 0, 1, 6, 4, 8, 3, 7 };
