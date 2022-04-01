@@ -308,7 +308,7 @@ public class Principal {
 			posicionAnterior = A[posicionAnterior];
 
 			iteraciones++;
-
+//comentario para ramilla desde remoto
 		}
 
 		Arrays.asList(decodificado).forEach(z -> {
